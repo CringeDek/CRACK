@@ -2,8 +2,6 @@ pkg install python
 
 pkg install git
 
-pip install stdiomask
-
 pip install requests
 
 pip install bs4
